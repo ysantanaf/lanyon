@@ -4,7 +4,7 @@ title: Things about me
 ---
 
 
-I am PhD in Oceanography workins as a Research Engineer at the MEOM team (http://meom-group.github.io/), a data-driven computational oceanography group based at the University of Grenoble-Alpes, France. My research line focuses on;
+I am PhD in Oceanography workins as a Research Engineer at the MEOM team ([meom]), a data-driven computational oceanography group based at the University of Grenoble-Alpes, France. My research line focuses on;
 
   - Organic carbon dynamics
   - Mesoscales features
@@ -29,3 +29,4 @@ I am also a traveling-lover, and enjoy spending time doing some [photography] an
 [writings]: <http://principia.io/staff/yeray/>
 [github]: <https://github.com/ysantanaf>
 [twitter]: <https://twitter.com/yeraysf>
+[meom]: <http://meom-group.github.io/>
