@@ -1,9 +1,8 @@
 ---
 layout: page
-title: About
+title: Things about me
 ---
 
-# Things about me
 
 I am PhD in Oceanography workins as a Research Engineer at the MEOM team (http://meom-group.github.io/), a data-driven computational oceanography group based at the University of Grenoble-Alpes, France. My research line focuses on;
 
