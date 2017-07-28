@@ -29,4 +29,4 @@ I am also a traveling-lover, and enjoy spending time doing some [photography] an
 [photography]: <https://500px.com/yeraysf>
 [writings]: <http://principia.io/staff/yeray/>
 [github]: <https://github.com/ysantanaf>
-[twitter]: <https://twitter.com/yeraysft>
+[twitter]: <https://twitter.com/yeraysf>
