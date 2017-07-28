@@ -8,6 +8,7 @@ title: CV
 My research line focuses on the organic carbon dynamics in the ocean at regional scales, with special interest in their relevance in the global ocean carbon cycle. My main goal is to contribute to the understanding of the organic carbon exchange between coastal upwelling regions and the adjacent oligotrophic open ocean. My primary research tools are the interpretation and analysis of observational data, both in situ and remotely sensed, coupled with the use of physical biogeochemical regional models.
 
 ## Education
+
 > PhD in Oceanography
  University of Las Palmas de Gran Canaria, Spain (2017)
  
@@ -24,6 +25,7 @@ ICSE, University Alfonso X, Spain (2008)
 Università degli Studi di Genova, Italy (2006)
 
 ## Work experience
+
 > Guide on the ELDER Museum of Science and Technology
 Las Palmas de Gran Canaria, Spain (2016)
  
@@ -39,6 +41,7 @@ Spain (2015)
 > Fellowship on the ELDER Museum of Science and Technology, Las Palmas de Gran Canaria, Spain (2008)
 
 ## Research stays
+
 > Instituto Mediterráneo de Estudios Avanzados (IMEDEA)
 4-month stay. Esporlès (Mallorca, Spain), 2012
 Development of a high resolution physical-biogeochemical model
@@ -48,6 +51,7 @@ Development of a high resolution physical-biogeochemical model
 Learning ROMS and coupling biogeochemical modules
 
 ## Oceanographic Cruises
+
 > **Practices of the Marine Sciences Degree** of the University of Las Palmas de Gran Canaria.
 R/V “Ángles Alvariño”. Coast of Gran Canaria (Spain).
 Teaching fieldwork techniques.
@@ -85,6 +89,7 @@ Biochemical tracer sampling and processing
 February 2009 (~15 days).
 
 ## Skills and competences
+
 > **Languages**
 * *Spanish (mother tongue), Italian and English.*
 
@@ -92,41 +97,37 @@ Courses:
 Advanced Level English (90h). Aberdeen-courses, Aberdeen (UK), 2009
 Intermediate-Advance Level English (60h). The English Center, Las Palmas de Gran
 Canaria (Spain), 2008
+
 Advanced Level Italian (60h). University of Las Palmas de Gran Canaria (Spain), 2008
+
 Italian for foreigners (60h). Università degli Studi di Genova (Italy), 2006
 Computational
 
 > **Numerical modeling**
 Skills in the use and improvement of numerical oceanographic models. User of; 
-    Pelagic Interaction Scheme for Carbon and Ecosystem studies (**PISCES**) embedded within the Regional Oceanographic Modeling System (**ROMS**).
-Experience in the use of ROMS configurations, NPZD models, and nesting methodologies.
-Strong skills in the management and creation of large volume of data containers such as NetCDF
-and HDF.
-MATLAB (Mathworks)
-Skills in the development of tool packages for the management and processing of large
-volume of numerical solution data. Competences developing readers of diverse oceanographic
-instruments, automation of data processing, visualization of georeferenced oceanic parameters in
-two and three dimensions. Deep experience developing packages for image analysis and remote
-sensing processing (e.g., oceancolor, OSTIA, AVISO, HERMES).
-LaTEX
-Using for the developing of the thesis dissertation and scientific articles. Competences in
-the creation of well-presented tables, figures, and documents.
-SeaDAS (NASA)
-Compentences in processing, display, and analysis of ocean color data (MODIS,
-SeaWIFS).
-Linux (GNU)
-User of Ubuntu and Mageia (formerly Mandriva) distributions. Knowledge of Bash scripting.
-Other software
-I also have competences is the using of other software and languages, such as Ocean Data
-View, SPSS, and ArcGIS, among others.
-Laboratory
-Experience setting up oceanographic instruments, and analytical experiments.
+* Pelagic Interaction Scheme for Carbon and Ecosystem studies (**PISCES**) 
+* Regional Oceanographic Modeling System (**ROMS**).
+* Nucleus for European Modelling of the Ocean (**NEMO**)
+
+> **Coding**
+* **MATLAB** (Mathworks)
+* **Python**
+* **Bash shell**
+* **LaTEX**
+
+I also have competences is the using of other software and languages, such as Ocean Data View, SPSS, and ArcGIS, among others.
+
+> **Laboratory**
+Experience setting up oceanographic instruments and analytical experiments.
 Analysis of organic carbon and nitrogen. Use of elemental analyzer (CHN).
 Analysis of nutrients from sea samples (AutoAnalyzer).
-Experience at sea
+
+> **Experience at sea**
 Participation in 6 oceanographic surveys and short sea samplings.
-Course of “Personal Survival Techniques” by Falck Nutec, Aberdeen (UK), 2009
+Course of “Personal Survival Techniques” by Falck Nutec, Aberdeen, UK (2009)
 Advanced diver (ACUC International).
+
+
 
 
 
