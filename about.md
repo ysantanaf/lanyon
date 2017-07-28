@@ -5,8 +5,6 @@ title: About
 
 # Things about me
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
 I am PhD in Oceanography workins as a Research Engineer at the MEOM team (http://meom-group.github.io/), a data-driven computational oceanography group based at the University of Grenoble-Alpes, France. My research line focuses on;
 
   - Organic carbon dynamics
