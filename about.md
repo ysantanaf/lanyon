@@ -3,28 +3,31 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+# Things about me
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-There are currently two themes built on Poole:
+I am PhD in Oceanography workins as a Research Engineer at the MEOM team (http://meom-group.github.io/), a data-driven computational oceanography group based at the University of Grenoble-Alpes, France. My research line focuses on;
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+  - Organic carbon dynamics
+  - Mesoscales features
+  - Modelling tools
+  - Ocean Data Assimilation
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+### I work on how biogeochemical fluxes are influenced by the ocean dynamics
 
-## Setup
+I am also a traveling-lover, and enjoy spending time doing some [photography] and [writings].
 
-Some fun facts about the setup of this project include:
+## You are very welcome to contact with me at
+> yeray.santana-falcon@univ-grenoble-alpes.fr
+> yeraysf@gmail.com
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+## My links
+* [github] 
+* [twitter]
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
-Thanks for reading!
+[photography]: <https://500px.com/yeraysf>
+[writings]: <http://principia.io/staff/yeray/>
+[github]: <https://github.com/ysantanaf>
+[twitter]: <https://twitter.com/yeraysft>
