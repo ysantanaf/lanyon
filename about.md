@@ -4,11 +4,11 @@ title: Things about me
 ---
 
 
-I am PhD in Oceanography workins as a Research Engineer at the MEOM team ([meom]), a data-driven computational oceanography group based at the University of Grenoble-Alpes, France. My research line focuses on;
+I am PhD in Oceanography working as Research Engineer at the MEOM team ([meom]), a data-driven computational oceanography group based at the University of Grenoble-Alpes, France. My research line focuses on;
 
   - Organic carbon dynamics
   - Mesoscales features
-  - Modelling tools
+  - Biogeochemical Modelling
   - Ocean Data Assimilation
 
 ### I work on how biogeochemical fluxes are influenced by the ocean dynamics
