@@ -29,6 +29,7 @@ ICSE, University Alfonso X, Spain (2008)
 
 Università degli Studi di Genova, Italy (2006)
 
+
 ## Work experience
 
 > Guide on the ELDER Museum of Science and Technology
@@ -55,6 +56,7 @@ Fisheries Research Services Marine Laboratory (currently Marine Scotland Marine 
 
 Las Palmas de Gran Canaria, Spain (2008)
 
+
 ## Research stays
 
 > Instituto Mediterráneo de Estudios Avanzados (**IMEDEA**)
@@ -68,6 +70,7 @@ Development of a high resolution physical-biogeochemical model
 3-month stay. Barcelona (Spain), 2011
 
 Learning ROMS and coupling biogeochemical modules
+
 
 ## Oceanographic Cruises
 
@@ -121,6 +124,7 @@ October - November 2009 (~30 days).
 Biochemical tracer sampling and processing
 February 2009 (~15 days).
 
+
 ## Skills and competences
 
 > **Languages**
@@ -139,6 +143,7 @@ Advanced Level *Italian* (60h). University of Las Palmas de Gran Canaria (Spain)
 *Italian* for foreigners (60h). Università degli Studi di Genova (Italy), 2006
 Computational
 
+
 > **Numerical modeling**
 
 Skills in the use and improvement of numerical oceanographic models. User of; 
@@ -146,6 +151,7 @@ Skills in the use and improvement of numerical oceanographic models. User of;
 * Pelagic Interaction Scheme for Carbon and Ecosystem studies (**PISCES**) 
 * Regional Oceanographic Modeling System (**ROMS**).
 * Nucleus for European Modelling of the Ocean (**NEMO**)
+
 
 > **Coding**
 * **MATLAB** (Mathworks)
@@ -155,6 +161,7 @@ Skills in the use and improvement of numerical oceanographic models. User of;
 
 I also have competences is the using of other software and languages, such as Ocean Data View, SPSS, and ArcGIS, among others.
 
+
 > **Laboratory**
 
 Experience setting up oceanographic instruments and analytical experiments.
@@ -163,7 +170,8 @@ Analysis of organic carbon and nitrogen. Use of elemental analyzer (CHN).
 
 Analysis of nutrients from sea samples (AutoAnalyzer).
 
-> **Experience at sea**
+
+> **Experience at the sea**
 Participation in 6 oceanographic surveys and short sea samplings.
 
 Course of “Personal Survival Techniques” by Falck Nutec, Aberdeen, UK (2009)
