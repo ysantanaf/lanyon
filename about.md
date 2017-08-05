@@ -3,6 +3,7 @@ layout: page
 title: Things about me
 ---
 
+![I hope you'll find this site of your interest](https://github.com/ysantanaf/ysantanaf.github.io/blob/master/diver.jpg?raw=true)
 
 I am PhD in Oceanography working as Research Engineer at the MEOM team ([meom]), a data-driven computational oceanography group based at the University of Grenoble-Alpes, France. My research line focuses on;
 
