@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Peer-reviewed contributions
+title: Publications
 ---
 
   
