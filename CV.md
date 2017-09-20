@@ -31,6 +31,9 @@ Università degli Studi di Genova, Italy (2006)
 
 
 ## Work experience
+> Research in MEOM, University of Grenoble - CNRS
+
+Grenoble, France (2017 - )
 
 > Guide on the ELDER Museum of Science and Technology
 
