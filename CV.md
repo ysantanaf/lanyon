@@ -9,7 +9,9 @@ title: CV
 >> ### **PhD in Oceanography**
 ---
 > **3 Fluent languagues -- scientific english**
+
 > **Excelent laboratory, field, and writing skills**
+
 > **Deep experience managing model outputs and observational data**
 
 ### **Research Interests**
