@@ -3,11 +3,21 @@ layout: page
 title: CV
 ---
 
-## Research Interests
+## Curriculum Vitae
 
-My research line focuses on the organic carbon dynamics in the ocean at regional scales, with special interest in their relevance in the global ocean carbon cycle. My main goal is to contribute to the understanding of the organic carbon exchange between coastal upwelling regions and the adjacent oligotrophic open ocean. My primary research tools are the interpretation and analysis of observational data, both collected *in situ* and remotely sensed, coupled with the use of physical-biogeochemical models.
 
-## Education
+>> ###**PhD in Oceanography **
+> **3 Fluent languagues -- scientific english**
+> **Excelent laboratory, field, and writing skills**
+> **Deep experience managing model outputs and observational data**
+
+
+### **Research Interests**
+
+During my thesis, my research line focused on the organic carbon dynamics in the ocean at regional scales, with special interest in their relevance in the global ocean carbon cycle. My main goal was to contribute to the understanding of the organic carbon exchange between coastal upwelling regions and the adjacent oligotrophic open ocean. My primary research tools were the interpretation and analysis of observational data, both collected *in situ* and remotely sensed, coupled with the use of physical-biogeochemical models.
+At present, my research line also includes the assimilation of real data, from ocean color and *in situ* profiles, into a 1/4 of degree resolution configuration of the NEMO-PISCES simulation for the North Atlantic. My main goal is to contribute to improve the accuracy of the biogeochemical component of the Copernicus ocean forecast system. 
+
+### **Education**
 
 > PhD in Oceanography
 
@@ -30,10 +40,10 @@ ICSE, University Alfonso X, Spain (2008)
 Università degli Studi di Genova, Italy (2006)
 
 
-## Work experience
-> Research in MEOM, University of Grenoble - CNRS
+### **Work experience**
+> Research Assistant in MEOM, University of Grenoble - CNRS
 
-Grenoble, France (2017 - )
+Grenoble, France (2017)
 
 > Guide on the ELDER Museum of Science and Technology
 
@@ -41,7 +51,7 @@ Las Palmas de Gran Canaria, Spain (2016)
  
 > Researcher for environmental consultancy “DC Servicios Ambientales”
 
-Spain (2015)
+Tenerife, Spain (2015)
 
 > PhD Fellow in biological oceanography. 
 
@@ -60,22 +70,22 @@ Fisheries Research Services Marine Laboratory (currently Marine Scotland Marine 
 Las Palmas de Gran Canaria, Spain (2008)
 
 
-## Research stays
+### **Research stays**
 
 > Instituto Mediterráneo de Estudios Avanzados (**IMEDEA**)
 
-4-month stay. Esporlès (Mallorca, Spain), 2012
+Esporlès, Mallorca, Spain. 4-month visit. (2012)
 
-Development of a high resolution physical-biogeochemical model
+Development of high resolution physical-biogeochemical solutions
 
 > Instituto de Ciencias del Mar (**ICM**)
 
-3-month stay. Barcelona (Spain), 2011
+Barcelona, Spain. 3-month visit. (2011)
 
 Learning ROMS and coupling biogeochemical modules
 
 
-## Oceanographic Cruises
+### **Oceanographic Cruises**
 
 > **Practices of the Marine Sciences Degree** 
 
@@ -83,10 +93,11 @@ University of Las Palmas de Gran Canaria.
 *R/V “Ángles Alvariño”*. Coast of Gran Canaria (Spain).
 
 Teaching fieldwork techniques.
-2011, 2012, 2013 and 2014 (~5 days each season).
+2011, 2012, 2013 and 2014 seasons (~5 days each season).
 
 > **BIMBACHE 10**
 
+University of Las Palmas de Gran Canaria and IEO (Spanish Institute of Oceanography)
 *R/V “Ramón Margalef”*. Coast of El Hierro (Spain).
 
 Biochemical tracers sampling.
@@ -94,41 +105,46 @@ October 2012 (~10 days).
 
 > **SUCCESSION**
 
-*R/V “Maria S. Merian”*. Coastal upwelling of Namibia.
+Leibniz Institute for Baltic Sea Research Warnemünde (Germany)
+*R/V “Maria S. Merian”*. Coastal upwelling off Namibia.
 
 Nitrogen uptake on-board experiment. Cytometry sampling.
 August-September 2011 (~36 days).
 
 > **Inter-ORCA**
 
-*R/V “Hespérides”*. Eastern basin of the North Atlantic Subtropical Gyre.
+University of Las Palmas de Gran Canaria and IMEDEA.
+*R/V “Hespérides”*. Eastern basin of the North Atlantic subtropical gyre.
 
 Particulate and dissolved organic carbon sampling
 May 2010 (~10 days).
 
 > **MOCaustral**
 
-*R/V “Hespérides”*. South Atlantic Ocean from Ushuaia (Argentina) to Cape Town (South Africa).
+University of Las Palmas de Gran Canaria.
+*R/V “Hespérides”*. South Atlantic Ocean, from Ushuaia (Argentina) to Cape Town (South Africa).
 
 Particulate organic carbon sampling and pre-processing
 February - March 2010 (~40 days).
 
 > **ORCA**
 
-*R/V “Hespérides”*. Eastern basin of the North Atlantic Subtropical Gyre.
+University of Las Palmas de Gran Canaria.
+*R/V “Hespérides”*. Eastern basin of the North Atlantic subtropical gyre.
 
 Particulate organic carbon sampling and pre-processing
 October - November 2009 (~30 days).
 
 > **Scottish Fish-farms annual production survey 2009**
 
+Fisheries Research Services, Aberdeen.
 *R/V “Alba na Mara”*. North-northwestern coast of Scotland
 
 Biochemical tracer sampling and processing
 February 2009 (~15 days).
 
 
-## Skills and competences
+### **Skills and competences**
 
 > **Languages**
 
@@ -149,7 +165,7 @@ Computational
 
 > **Numerical modeling**
 
-Skills in the use and improvement of numerical oceanographic models. User of; 
+Experience in the management of numerical model outputs and the using of: 
 
 * Pelagic Interaction Scheme for Carbon and Ecosystem studies (**PISCES**) 
 * Regional Oceanographic Modeling System (**ROMS**).
@@ -157,12 +173,20 @@ Skills in the use and improvement of numerical oceanographic models. User of;
 
 
 > **Coding**
-* **MATLAB** (Mathworks)
-* **Python**
-* **Bash shell**
-* **LaTEX**
 
-I also have competences is the using of other software and languages, such as Ocean Data View, SPSS, and ArcGIS, among others.
+* **Python**
+* **MATLAB** (Mathworks)
+* **Bash shell**
+
+> **Other computing competences**
+
+* **Jupyter notebooks**
+* **GitHub**
+* **Markdown**
+* **LaTEX**
+* **NetCDF, HDF, and other highl-level data formats **
+
+I also have skills using other software and languages, such as Ocean Data View, SPSS, and ArcGIS, among others.
 
 
 > **Laboratory**
@@ -175,6 +199,7 @@ Analysis of nutrients from sea samples (AutoAnalyzer).
 
 
 > **Experience at the sea**
+
 Participation in 6 oceanographic surveys and short sea samplings.
 
 Course of “Personal Survival Techniques” by Falck Nutec, Aberdeen, UK (2009)
