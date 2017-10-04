@@ -22,57 +22,59 @@ At present, my research line also includes the assimilation of real data, from o
 
 ### **Education**
 
-> PhD in Oceanography
+> **PhD in Oceanography**
 
  University of Las Palmas de Gran Canaria, Spain (2017)
  
-> Master Degree in Oceanography
+> **Master Degree in Oceanography**
 
 University of Las Palmas de Gran Canaria, Spain (2012)
 
-> Degree in Marine Sciences
+> **Degree in Marine Sciences**
 
 University of Las Palmas de Gran Canaria, Spain (2008)
 
-> Postgraduate Certificate in Education (CAP - Teaching Certificate)
+> **Postgraduate Certificate in Education (CAP - Teaching Certificate)**
 
 ICSE, University Alfonso X, Spain (2008)
 
-> Erasmus Grant
+> **Erasmus Grant**
 
 Università degli Studi di Genova, Italy (2006)
 
 
 ### **Work experience**
-> Research Assistant in MEOM, University of Grenoble - CNRS
+> **Research Assistant in MEOM, University of Grenoble - CNRS**
 
 Grenoble, France (2017)
 
-> Guide on the ELDER Museum of Science and Technology
+> **Guide on the ELDER Museum of Science and Technology**
 
 Las Palmas de Gran Canaria, Spain (2016)
  
-> Researcher for environmental consultancy “DC Servicios Ambientales”
+> **Researcher for environmental consultancy “DC Servicios Ambientales”**
 
 Tenerife, Spain (2015)
 
-> PhD Fellow in biological oceanography. 
+> **PhD Fellow in biological oceanography** 
 
 University of Las Palmas de Gran Canaria (2012 – 2016)
 
-> “Venia Docendi” (teaching) at Degree of Marine Sciences. 
+> **“Venia Docendi” (teaching) at Degree of Marine Sciences** 
 
 University of Las Palmas de Gran Canaria, Spain (2012 – 2014)
 
-> Physical oceanographer at “Environmental Impacts” research group. 
+> **Physical oceanographer at “Environmental Impacts” research group** 
 
 Fisheries Research Services Marine Laboratory (currently Marine Scotland Marine Laboratory), Aberdeen, Scotland, UK (2008 – 2009)
 
-> Fellowship on the ELDER Museum of Science and Technology 
+> **Fellowship on the ELDER Museum of Science and Technology** 
 
 Las Palmas de Gran Canaria, Spain (2008)
 
 ### **Publications**
+
+- **Santana-Falcón, Y.** et al. (in prep).  Offshore carbon export mediated by two coastal filaments in the eastern boundary Canary Current region.
 
  - **Santana-Falcón, Y.**, Álvarez-Salgado, X.A.,Pérez-Rodríguez, M.D., Hernández-Guerra, A., Mason, E., & Arístegui, J. (2017). Organic carbon budget for the eastern boundary of the North Atlantic subtropical gyre: major role of DOC in mesopelagic respiration, *Scientific Reports*, 7:10129.
 
@@ -86,17 +88,32 @@ https://doi.org/10.1016/j.jmarsys.2015.10.008
 
 https://doi.org/10.1016/j.jmarsys.2014.05.002
 
+### **Meeting contributions**
+
+- **Santana-Falcón, Y.**, Benavides, M., Sangrà, P., Mason, E., Barton, E. D., and Arístegui, J. Annual cycle of offshore transport of organic matter by an upwelling filament off Cape Ghir (NW Africa).
+	Oral communication. **Aquatic Sciences Meeting**. Granada, Spain. (2015)
+
+- **Santana-Falcón, Y.**, Benavides, M., Barton, E. D.,  Sangrà, P., Mason, E., and Arístegui, J. An annual cycle of offshore transport of organic matter and chlorophyll by an upwelling filament off Cape Ghir (NW Africa).
+Oral communication. **International Sympsium of Marine Sciences**. Las Palmas de Grna Canaria, Spain. (2014)
+
+- **Santana-Falcón, Y.**, Mason, E., and Arístegui, J. Biophysical model coupling ROMS and PISCES in the Canary Current Ecosystem.
+Oral communication. **International Sympsium of Marine Sciences**. Las Palmas de Grna Canaria, Spain. (2014)
+  
+- **Santana-Falcón, Y.**., Mason, E., and Arístegui, J. A biophysical modelling approach to the Canary Current Ecosystem.
+Oral communication. **International Sympsium of Marine Sciences**. Cádiz, Spain. (2012)
+
+
 ### **Research stays**
 
 > Instituto Mediterráneo de Estudios Avanzados (**IMEDEA**)
 
-Esporlès, Mallorca, Spain. 4-month visit. (2012)
+Esporlès, Mallorca, Spain. **4-month visit**. (2012)
 
 Development of high resolution physical-biogeochemical solutions
 
 > Instituto de Ciencias del Mar (**ICM**)
 
-Barcelona, Spain. 3-month visit. (2011)
+Barcelona, Spain. **3-month visit**. (2011)
 
 Learning ROMS and coupling biogeochemical modules
 
@@ -108,7 +125,7 @@ Learning ROMS and coupling biogeochemical modules
 University of Las Palmas de Gran Canaria.
 *R/V “Ángles Alvariño”*. Coast of Gran Canaria (Spain).
 
-Teaching fieldwork techniques.
+*Teaching fieldwork techniques.*
 2011, 2012, 2013 and 2014 seasons (~5 days each season).
 
 > **BIMBACHE 10**
@@ -116,7 +133,7 @@ Teaching fieldwork techniques.
 University of Las Palmas de Gran Canaria and IEO (Spanish Institute of Oceanography)
 *R/V “Ramón Margalef”*. Coast of El Hierro (Spain).
 
-Biochemical tracers sampling.
+*Biochemical tracers sampling.*
 October 2012 (~10 days).
 
 > **SUCCESSION**
@@ -124,7 +141,7 @@ October 2012 (~10 days).
 Leibniz Institute for Baltic Sea Research Warnemünde (Germany)
 *R/V “Maria S. Merian”*. Coastal upwelling off Namibia.
 
-Nitrogen uptake on-board experiment. Cytometry sampling.
+*Nitrogen uptake on-board experiment. Cytometry sampling.*
 August-September 2011 (~36 days).
 
 > **Inter-ORCA**
@@ -132,7 +149,7 @@ August-September 2011 (~36 days).
 University of Las Palmas de Gran Canaria and IMEDEA.
 *R/V “Hespérides”*. Eastern basin of the North Atlantic subtropical gyre.
 
-Particulate and dissolved organic carbon sampling
+*Particulate and dissolved organic carbon sampling.*
 May 2010 (~10 days).
 
 > **MOCaustral**
@@ -140,7 +157,7 @@ May 2010 (~10 days).
 University of Las Palmas de Gran Canaria.
 *R/V “Hespérides”*. South Atlantic Ocean, from Ushuaia (Argentina) to Cape Town (South Africa).
 
-Particulate organic carbon sampling and pre-processing
+*Particulate organic carbon sampling and pre-processing.*
 February - March 2010 (~40 days).
 
 > **ORCA**
@@ -148,7 +165,7 @@ February - March 2010 (~40 days).
 University of Las Palmas de Gran Canaria.
 *R/V “Hespérides”*. Eastern basin of the North Atlantic subtropical gyre.
 
-Particulate organic carbon sampling and pre-processing
+*Particulate organic carbon sampling and pre-processing.*
 October - November 2009 (~30 days).
 
 > **Scottish Fish-farms annual production survey 2009**
@@ -181,7 +198,7 @@ Computational
 
 > **Numerical modeling**
 
-Experience in the management of numerical model outputs and the using of: 
+*Experience in the management of numerical model outputs and the using of:* 
 
 * Pelagic Interaction Scheme for Carbon and Ecosystem studies (**PISCES**) 
 * Regional Oceanographic Modeling System (**ROMS**).
@@ -200,27 +217,27 @@ Experience in the management of numerical model outputs and the using of:
 * **GitHub**
 * **Markdown**
 * **LaTEX**
-* **NetCDF, HDF, and other highl-level data formats**
+* **NetCDF**, **HDF**, and other highl-level data formats
 
-I also have skills using other software and languages, such as Ocean Data View, SPSS, and ArcGIS, among others.
+*I also have skills using other software and languages, such as Ocean Data View, SPSS, and ArcGIS, among others.*
 
 
 > **Laboratory**
 
-Experience setting up oceanographic instruments and analytical experiments.
+* Experience setting up oceanographic instruments and analytical experiments.
 
-Analysis of organic carbon and nitrogen. Use of elemental analyzer (CHN).
+* Analysis of organic carbon and nitrogen. Use of elemental analyzer (CHN).
 
-Analysis of nutrients from sea samples (AutoAnalyzer).
+* Analysis of nutrients from sea samples (AutoAnalyzer).
 
 
 > **Experience at the sea**
 
-Participation in 6 oceanographic surveys and short sea samplings.
+* Participation in 6 oceanographic surveys and short sea samplings.
 
-Course of “Personal Survival Techniques” by Falck Nutec, Aberdeen, UK (2009)
+* Course of “Personal Survival Techniques” by Falck Nutec, Aberdeen, UK (2009)
 
-Advanced diver (ACUC International).
+* Advanced diver (ACUC International).
 
 
 
