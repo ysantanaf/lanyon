@@ -8,7 +8,7 @@ title: CV
 
 
 >> ### **PhD in Oceanography**
----
+
 > **3 Fluent languagues -- scientific english**
 
 > **Excelent laboratory, field, and writing skills**
@@ -200,7 +200,7 @@ Experience in the management of numerical model outputs and the using of:
 * **GitHub**
 * **Markdown**
 * **LaTEX**
-* **NetCDF, HDF, and other highl-level data formats **
+* **NetCDF, HDF, and other highl-level data formats**
 
 I also have skills using other software and languages, such as Ocean Data View, SPSS, and ArcGIS, among others.
 
