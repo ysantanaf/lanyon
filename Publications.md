@@ -3,10 +3,10 @@ layout: page
 title: Publications
 ---
 
-  
-  - **Santana-Falcón, Y.**, Álvarez-Salgado, X.A.,Pérez-Rodríguez, M.D., Hernández-Guerra, A., Mason, E., & Arístegui, J. (2017). Organic carbon budget for the eastern boundary of the North Atlantic subtropical gyre: major role of DOC in mesopelagic respiration, *Scientific Reports*, 7:10129.
 
-https://doi.org/xxxx
+ - **Santana-Falcón, Y.**, Álvarez-Salgado, X.A.,Pérez-Rodríguez, M.D., Hernández-Guerra, A., Mason, E., & Arístegui, J. (2017). Organic carbon budget for the eastern boundary of the North Atlantic subtropical gyre: major role of DOC in mesopelagic respiration, *Scientific Reports*, 7:10129.
+
+https://doi.org/10.1038/s41598-017-10974-y
 
   - **Santana-Falcón, Y.**, Benavides, M., Sangrà, P., Mason, E., Barton, E. D., Orbi, A., & Arístegui, J. (2016). Coastal–offshore exchange of organic matter across the Cape Ghir filament (NW Africa) during moderate upwelling. *Journal of Marine Systems*, 154:233-242. 
 
