@@ -9,7 +9,7 @@ title: CV
 
 >> ### **PhD in Oceanography**
 
-> **3 Fluent languagues -- scientific english**
+> **4 Fluent languagues -- scientific english**
 
 > **Excelent laboratory, field, and writing skills**
 
@@ -44,7 +44,7 @@ Università degli Studi di Genova, Italy (2006)
 
 
 ### **Work experience**
-> **Research Assistant in MEOM, University of Grenoble - CNRS**
+> **Post-Doctorant in MEOM, University of Grenoble - CNRS**
 
 Grenoble, France (2017)
 
@@ -73,8 +73,9 @@ Fisheries Research Services Marine Laboratory (currently Marine Scotland Marine 
 Las Palmas de Gran Canaria, Spain (2008)
 
 ### **Publications**
+- **Santana-Falcón, Y.** et al. (in prep).  Towards the assimilation of ocean color data into a physical-biogeochemical ensemble simulation over the North Atlantic 
 
-- **Santana-Falcón, Y.** et al. (in prep).  Offshore carbon export mediated by two coastal filaments in the eastern boundary Canary Current region.
+- **Santana-Falcón, Y.** et al. (in prep).  Offshore carbon export mediated by two coastal filaments in the eastern boundary Canary Current region
 
  - **Santana-Falcón, Y.**, Álvarez-Salgado, X.A.,Pérez-Rodríguez, M.D., Hernández-Guerra, A., Mason, E., & Arístegui, J. (2017). Organic carbon budget for the eastern boundary of the North Atlantic subtropical gyre: major role of DOC in mesopelagic respiration, *Scientific Reports*, 7:10129.
 
@@ -89,6 +90,9 @@ https://doi.org/10.1016/j.jmarsys.2015.10.008
 https://doi.org/10.1016/j.jmarsys.2014.05.002
 
 ### **Meeting contributions**
+
+- **Santana-Falcón, Y.**, Brankar, J. M., and Brasseur, P. Towards a methodology for routinely assimilate ocean colour data into a NEMO-PISCES operational solution
+Oral communication. **European Geosciences Union General Assembly**. Vienna, Austria. (2018)
 
 - **Santana-Falcón, Y.**, Benavides, M., Sangrà, P., Mason, E., Barton, E. D., and Arístegui, J. Annual cycle of offshore transport of organic matter by an upwelling filament off Cape Ghir (NW Africa).
 	Oral communication. **Aquatic Sciences Meeting**. Granada, Spain. (2015)
@@ -181,9 +185,13 @@ February 2009 (~15 days).
 
 > **Languages**
 
-* *Spanish (mother tongue), English and Italian.*
+* *Spanish (mother tongue), English, Italian and French.*
 
 > Courses:
+
+French A2 (60h). IFRA-CNRS, Grenoble (France), 2018
+
+French A1 (60h). IFRA-CNRS, Grenoble (France), 2017-2018
 
 Advanced Level *English* (90h). Aberdeen-courses, Aberdeen (UK), 2009
 
@@ -238,6 +246,14 @@ Computational
 * Course of “Personal Survival Techniques” by Falck Nutec, Aberdeen, UK (2009)
 
 * Advanced diver (ACUC International).
+
+> **Divulagtion projects**
+
+* Principia (http://principia.io/staff/yeray/). Writer of science-related articles
+
+* 'Ciencia Cercana' (www.teldeactualidad.com). Biweekly column of popular science (2014-2015).
+
+* 'Ciencia Compartida' @CienCompartida. Organizer of weekly scientifici talks. Marine Sciences Faculty. University of Las Palmas de Gran Canaria, Spain (2011-2013).
 
 
 
