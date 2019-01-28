@@ -46,7 +46,7 @@ Università degli Studi di Genova, Italy (2006)
 ### **Work experience**
 - **Post-Doctorant in MEOM, University of Grenoble - CNRS**
 
-Grenoble, France (2017)
+Grenoble, France (2017-present)
 
 - **Guide on the ELDER Museum of Science and Technology**
 
@@ -76,6 +76,9 @@ Las Palmas de Gran Canaria, Spain (2008)
 - **Santana-Falcón, Y.** et al. (in prep).  Towards the assimilation of ocean color data into a physical-biogeochemical ensemble simulation over the North Atlantic 
 
 - **Santana-Falcón, Y.** et al. (in prep).  Offshore carbon export mediated by two coastal filaments in the eastern boundary Canary Current region
+
+-Garnier, F., Brasseur, P., Brankart, J. M., **Santana-Falcón, Y.**, & Cosme, E. (2019). An ensemble probabilisitic approach to reconstruct the biogeochemical state of the North Atlantic Ocean using ocean colour images, *Ocean Science Discussion*
+https://doi.org/10.5194/os-2018-153
 
  - **Santana-Falcón, Y.**, Álvarez-Salgado, X.A.,Pérez-Rodríguez, M.D., Hernández-Guerra, A., Mason, E., & Arístegui, J. (2017). Organic carbon budget for the eastern boundary of the North Atlantic subtropical gyre: major role of DOC in mesopelagic respiration, *Scientific Reports*, 7:10129.
 
@@ -214,13 +217,13 @@ Computational
 
 **Coding**
 
-- **Python**
+- **Python 3**
 - **MATLAB** (Mathworks)
-- **Bash shell**
+- **Bash/ksh shell**
 
 **Other computing competences**
 
-* **Jupyter notebooks**
+* **Jupyter notebook**
 * **GitHub**
 * **Markdown**
 * **LaTEX**
