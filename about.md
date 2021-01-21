@@ -5,19 +5,20 @@ title: Things about me
 
 ![I hope you'll find this site of your interest](https://github.com/ysantanaf/ysantanaf.github.io/blob/master/diver.jpg?raw=true)
 
-I am PhD in Oceanography working as Research Engineer (Post-Doc) at the MEOM team ([meom]), a data-driven computational oceanography group based at the University of Grenoble-Alpes, France. My research line focuses on;
+I am PhD in Oceanography working as a Post-Doc at the CNRM, a data-driven computational oceanography group based at MétéoFrance, Toulouse. My research line focuses on;
 
-  - Organic carbon dynamics
-  - Ocean Data Assimilation
+  - Ocean Extremes
   - Biogeochemical Modelling
+  - CMIP6 Models
+  - Ocean Data Assimilation
   - Mesoscale features
 
-### I work on how biogeochemical fluxes are influenced by the ocean dynamics
+### I currrently work on how ocean extremes (high temperature, low oxygen, etc) may influence ocean biogeochemistry
 
 I am also a traveling-lover, and enjoy spending time doing some [photography] and [writings].
 
 ## You are very welcome to contact with me at
-> yeray.santana-falcon@univ-grenoble-alpes.fr
+> yeray.santana-falcon@meteo.fr
 
 > yeraysf@gmail.com
 
